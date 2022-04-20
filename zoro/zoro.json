@@ -1,351 +1,209 @@
 {
-  "Ads":
-  [
-    {
-     "select_main_ads": "",
-      "select_backup_ads":"",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
-      "native_for_admob":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "interval_intertitial": 5,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-    }
-  ],
-  
-  "More":
-  [
-    {
-      "id":1,
-      "title":"More App",
-      "image":"",
-      "link":""
-    }
-  ],
   "Skin":
   [
     {
-      "id":1,
       "name_skin":"Zoro",
-      "skin_url":"https://lh3.googleusercontent.com/Uia4EBtw6u1dEpiBlBHAtXkKO-VhBaisISGpM8A5njO7-Bvmp2z7_b2udmSeFHdj5GSr5RBI1XVe_5s_PV6XcbyY4kvs_jjVfY90",
-      "view_skin":"https://lh3.googleusercontent.com/1MQEZzAAgn6N2OOOA-wdAPuBQG0FXmT8hbJEUr74GTFh3MXyc65PhkIn451Wj-5epCHB9tseozyzQCUEaRHQz67_DD4_UyjiNlvY"
+      "install":"https://lh3.googleusercontent.com/Uia4EBtw6u1dEpiBlBHAtXkKO-VhBaisISGpM8A5njO7-Bvmp2z7_b2udmSeFHdj5GSr5RBI1XVe_5s_PV6XcbyY4kvs_jjVfY90",
     },
 	{
-      "id":2,
       "name_skin":"Roronoa Zoro Wano",
-      "skin_url":"https://lh3.googleusercontent.com/gZ_fbq1hDW4Ff_ll5c7oMQi_q9gzLdd9pZkqpWvtd8b6FuLdZyyvI-8osEtRe8GPLImp3qUxc0ri2FARKc900jRSAxcU3iYTrFw",
-      "view_skin":"https://lh3.googleusercontent.com/fZbLAjaCiGswLEwjZyws7JA98mEzVh1ehc9cKgL1yKc1k0tofCOgrQ7YeKTPMpL_0YCOe3jfl4S3kQuA1DyfpnPwkqmVmFbQk9A"
+      "install":"https://lh3.googleusercontent.com/gZ_fbq1hDW4Ff_ll5c7oMQi_q9gzLdd9pZkqpWvtd8b6FuLdZyyvI-8osEtRe8GPLImp3qUxc0ri2FARKc900jRSAxcU3iYTrFw",
     },
 	{
-      "id":3,
       "name_skin":"Zoro",
-      "skin_url":"https://lh3.googleusercontent.com/kOkVYr5y8nHl5e7NimYn85ht7BcYKoFBX4GJEsbQ1wC0iyogdHwfjNv2id13KNq5RTXiVooC0QUPSCsnJiS4",
-      "view_skin":"https://lh3.googleusercontent.com/NrzwtLGrxxhZQ1t6CV80HKbvl7UUpOA4nD5-Ry4zfEanJo10q-krXWk9jLl3wxbq4HNNujCkpov47B_9ARsWmw"
+      "install":"https://lh3.googleusercontent.com/kOkVYr5y8nHl5e7NimYn85ht7BcYKoFBX4GJEsbQ1wC0iyogdHwfjNv2id13KNq5RTXiVooC0QUPSCsnJiS4",
     },
 	{
-      "id":4,
       "name_skin":"Zoro",
-      "skin_url":"https://lh3.googleusercontent.com/T-aiHlsFLBkXEQ2JJe07DwBwTVVBfMOEpXnf6z1_pqs04TnsUBqBzyqrmgECyvXhbjfE-xEVIGZ8rJMOymMh0g",
-      "view_skin":"https://lh3.googleusercontent.com/ztbMNvYX0axbjTWcMsL546r3cwqRmIs9pLWi0huXsvrDLNtvQh7AOjvZZpgxqWHUeWNBsQt7vF_zk88XlKy-PA"
+      "install":"https://lh3.googleusercontent.com/T-aiHlsFLBkXEQ2JJe07DwBwTVVBfMOEpXnf6z1_pqs04TnsUBqBzyqrmgECyvXhbjfE-xEVIGZ8rJMOymMh0g",
     },
 	{
-      "id":5,
       "name_skin":"Zoro",
-      "skin_url":"https://lh3.googleusercontent.com/hPsDKrH77qJ7INA0RvTksvz3Lx33s2jcP-jvZe8Ac6rizuTXPqZqzWMUiUzfEmilR14AIuHOcDvxZpYeuXp__j6SysILLIaecCg",
-      "view_skin":"https://lh3.googleusercontent.com/h8SfzlYNBg8dx1NsoG52W_rRE8KbDBECMn71MoZBefRxhXGrcUQgWAEc9FjEx8tO-P1zvct2hU_s4ngP99wsLOtIJBzb458ZP-Om"
+      "install":"https://lh3.googleusercontent.com/hPsDKrH77qJ7INA0RvTksvz3Lx33s2jcP-jvZe8Ac6rizuTXPqZqzWMUiUzfEmilR14AIuHOcDvxZpYeuXp__j6SysILLIaecCg",
     },
 	{
-      "id":6,
       "name_skin":"Purple Linda Zoro",
-      "skin_url":"https://lh3.googleusercontent.com/oce1C6af-dvXlVh17isq4wgJeFJAw406laAgITLFTc8YTugqK3wZ5G2kf5Ap8Zc1K_K11IPWnDGz46RwTHiaZ8cxiSF60mXd-qQ",
-      "view_skin":"https://lh3.googleusercontent.com/VDRkSBsb_klO8DbPtPSf77Vl619dvbXHwMf-fP2Awi_f8Xz542RyausDd-nVzmIZ4QeJo7VIx7M6835XvnJmINNalzkUjSQUeew"
+      "install":"https://lh3.googleusercontent.com/oce1C6af-dvXlVh17isq4wgJeFJAw406laAgITLFTc8YTugqK3wZ5G2kf5Ap8Zc1K_K11IPWnDGz46RwTHiaZ8cxiSF60mXd-qQ",
     },
 	{
-      "id":7,
       "name_skin":"Zoro",
-      "skin_url":"https://lh3.googleusercontent.com/257WYyFrbtgzoLyYOE0m9AyRKky1NhS5elXu3Bc08NNTF8S-TQIKH6LFhobGnxErfjDyTrhtAy3eMyiBgbF1F68",
-      "view_skin":"https://lh3.googleusercontent.com/s3lbyBdPdaOf3KVXLHBpYIpkz6vkgNPtPmJpD_pgBCzCE4ZSzux3GWYv8Uo6n0-2H-ReT5suhOvO3FowTBAUOBY"
+      "install":"https://lh3.googleusercontent.com/257WYyFrbtgzoLyYOE0m9AyRKky1NhS5elXu3Bc08NNTF8S-TQIKH6LFhobGnxErfjDyTrhtAy3eMyiBgbF1F68",
     },
 	{
-      "id":8,
       "name_skin":"Zoro Drip",
-      "skin_url":"https://lh3.googleusercontent.com/bGSyCHnyYTQfbQWuViEPL8pu31apIS6XZpbrOSrtTQxe8MnsLRVCWFt2y7jFe5XVzOcWT8kr1krxvO5ElqCjeVcisr7OBiqifmxk",
-      "view_skin":"https://lh3.googleusercontent.com/lVVg-uD_8UJzvqqBbJO7NPSPLVCY-INcOGl3_1b99stdIn5heevzgptVkj6WNOVKc9sGpdnDqz1PA6N89W9rcmdyEw2lcDSvDg8"
+      "install":"https://lh3.googleusercontent.com/bGSyCHnyYTQfbQWuViEPL8pu31apIS6XZpbrOSrtTQxe8MnsLRVCWFt2y7jFe5XVzOcWT8kr1krxvO5ElqCjeVcisr7OBiqifmxk",
     },
 	{
-      "id":9,
       "name_skin":"Zoro",
-      "skin_url":"https://lh3.googleusercontent.com/9ElPoaX3Q9dnzNv5Yc6tulw7h0XBUPVuM2wH8nm8EG_bjzrPcKaxe48K9ZrhMq0S9ye_Fgx_7_t1caXhQBwPqJenf7-lhemuBrvZ",
-      "view_skin":"https://lh3.googleusercontent.com/B2s3J2yKSagvmZ31FMvIvPeN57ttfZCKhKF5LhiJGPE_gDEE7Xigx2m6AySxHVMDHRacqNxx8vfjoYCxCd6mfokcb04EKS_2ItE"
+      "install":"https://lh3.googleusercontent.com/9ElPoaX3Q9dnzNv5Yc6tulw7h0XBUPVuM2wH8nm8EG_bjzrPcKaxe48K9ZrhMq0S9ye_Fgx_7_t1caXhQBwPqJenf7-lhemuBrvZ",
     },
 	{
-      "id":10,
       "name_skin":"Duths Zoro Sat",
-      "skin_url":"https://lh3.googleusercontent.com/Jv2GZPXeaZCdUJJwjlfYdWU_rPkLzYPIZNnQNRJUSNTUbwRxKpOuqBMIabhwA7dvkkVUc93bunaKrxnecC3aPmeHSw-5OTG44VMJ",
-      "view_skin":"https://lh3.googleusercontent.com/VSKLF2kHYN3qkzH5YIOOxX0aiGXszR-lHb7SBK1ttuwIwjOk4wLBfwJOMcBEjzFPFhr0QWbpeF4Irw3EHOx7X15czbqq4XplTj05"
+      "install":"https://lh3.googleusercontent.com/Jv2GZPXeaZCdUJJwjlfYdWU_rPkLzYPIZNnQNRJUSNTUbwRxKpOuqBMIabhwA7dvkkVUc93bunaKrxnecC3aPmeHSw-5OTG44VMJ",
     },
 	{
-      "id":11,
       "name_skin":"Zoro",
-      "skin_url":"https://lh3.googleusercontent.com/d2l5tCS_-v6TMTSqsYbMuRa4Ko08vRhIIxOiGm9e-ZQPea52crlOC0s7VfpxBP8mAgXKBMZ4IGw8EMhkNl2KO9M",
-      "view_skin":"https://lh3.googleusercontent.com/4g00tHqY8kpo1Wl6ful8No02xzPYG8CCFbidm_J0Z63-hAjVfAtnr-OXGuy9p1G50LcSzcOgOhS-Fd4wT5gx"
+      "install":"https://lh3.googleusercontent.com/d2l5tCS_-v6TMTSqsYbMuRa4Ko08vRhIIxOiGm9e-ZQPea52crlOC0s7VfpxBP8mAgXKBMZ4IGw8EMhkNl2KO9M",
     },
 	{
-      "id":12,
       "name_skin":"Zoro",
-      "skin_url":"https://lh3.googleusercontent.com/Yr2UW3rRqrRTd8ffbji2xoy6Mp-PRfHMRZSl_g_Lc9kjTvyyBC-7OSJauzNOw14uAtyx9yDDdZGy3nIgdZxO",
-      "view_skin":"https://lh3.googleusercontent.com/X1Y5AerQLsOdkREZlQESuFM-9b0w78H24nsNpckYnAjanMC6xJ1PLZ_3WUxVAiDFgzgiaVE58zzFedeVvc_EGohF9ldQYnN3oIM"
+      "install":"https://lh3.googleusercontent.com/Yr2UW3rRqrRTd8ffbji2xoy6Mp-PRfHMRZSl_g_Lc9kjTvyyBC-7OSJauzNOw14uAtyx9yDDdZGy3nIgdZxO",
     },
 	{
-      "id":13,
       "name_skin":"Zoro",
-      "skin_url":"https://lh3.googleusercontent.com/IeMUmGPOiAOaU9zYS1Ap1KOxeeEQytfhLRafBMYPTgB6axG05oHHtH90VAWA-kJK5mX5KYW_knrIqOg-98K6jaEeD7tOxIIH3LA",
-      "view_skin":"https://lh3.googleusercontent.com/Zp2SbJXrFyY7aNMJYWkTF8RD5rCPUlok1aaFHQ72S7WFMPGLkctjXlb4fc1sWQdE_Q748U6V-N0QM3aR4YkNA1m0JJbV6m-BHw"
+      "install":"https://lh3.googleusercontent.com/IeMUmGPOiAOaU9zYS1Ap1KOxeeEQytfhLRafBMYPTgB6axG05oHHtH90VAWA-kJK5mX5KYW_knrIqOg-98K6jaEeD7tOxIIH3LA",
     },
 	{
-      "id":14,
       "name_skin":"Sanji E Zoro",
-      "skin_url":"https://lh3.googleusercontent.com/sEFwa_gT2rihKo-MRtdGqQE7wkHk2hP575GOxBQnHZe7t9ncjvFrUZ-GkS8f1VV9rPwp6-wV25hsFWiGScpX1lqrv6FbHSTRrUc",
-      "view_skin":"https://lh3.googleusercontent.com/oGsCShEkNfwEaZxEO1YmSd8scx_u-scSrl9DEEcXOSA3UksAt6b4sWQCGKp0V9sFm9qN8XQUEXmL-XZ5VOIuQHfSE-_5pzlsFJs"
+      "install":"https://lh3.googleusercontent.com/sEFwa_gT2rihKo-MRtdGqQE7wkHk2hP575GOxBQnHZe7t9ncjvFrUZ-GkS8f1VV9rPwp6-wV25hsFWiGScpX1lqrv6FbHSTRrUc",
     },
 	{
-      "id":15,
       "name_skin":"Chatzis Zoro",
-      "skin_url":"https://lh3.googleusercontent.com/5bnFBiTCMTXhCW9KIAL9pRS4fgozYt_y0ckXIjmbkft_1WG_bvPmR36ygSzW5UqHnAwyu-zNjgXl3FrreBeioSZBqnCC5Qrh-z4",
-      "view_skin":"https://lh3.googleusercontent.com/6XCezjfywJHgIyg7w49RIPbemvRss3l1lbwVb86dpM88G-9qjMRO3SN00RzuTEvUec8WQTqBzWxjuuGOh-Al8Ac52izowf5L-CI"
+      "install":"https://lh3.googleusercontent.com/5bnFBiTCMTXhCW9KIAL9pRS4fgozYt_y0ckXIjmbkft_1WG_bvPmR36ygSzW5UqHnAwyu-zNjgXl3FrreBeioSZBqnCC5Qrh-z4",
     },
 	{
-      "id":16,
       "name_skin":"Zoro Luffy",
-      "skin_url":"https://lh3.googleusercontent.com/BBCBvsUTMTVK8muQhV1HJW8Hz6ZmIU0Fm1vV4QU2gLu0gLrv6qQuW7Jy_nYMUOm2xIq90lNS1lupfyTaI5CWbM4X2VBRYvezTaU",
-      "view_skin":"https://lh3.googleusercontent.com/MRitbr1XZ7gSRwJRKYeS9NCHsIw-itTeV4-r29uXzUwK3fRe1x1495RbkZarvM0OyD9H47tghsXyJEykvPkAR7HqQ1HLlfNV2qrb"
+      "install":"https://lh3.googleusercontent.com/BBCBvsUTMTVK8muQhV1HJW8Hz6ZmIU0Fm1vV4QU2gLu0gLrv6qQuW7Jy_nYMUOm2xIq90lNS1lupfyTaI5CWbM4X2VBRYvezTaU",
     },
 	{
-      "id":17,
       "name_skin":"Zoro Noob",
-      "skin_url":"https://lh3.googleusercontent.com/VX3auhJ6Fq90hDIQMcFtBxNe53ExdZ4SCWZgPQk5J0UXvTptQz_sn7HT9S20BSVwV6aUQ7z7HrULWumTwYJCuvygzjDvbU8N_Bg",
-      "view_skin":"https://lh3.googleusercontent.com/aWHeWSZq-6m12Q0nfdA7brtadmrSV_nrGLj7b3_ma758jtX3iVwv0WFxo3NK06YElB7NSdGE_CqKRO4ud-yf5-bFw7qCNgXzCgc"
+      "install":"https://lh3.googleusercontent.com/VX3auhJ6Fq90hDIQMcFtBxNe53ExdZ4SCWZgPQk5J0UXvTptQz_sn7HT9S20BSVwV6aUQ7z7HrULWumTwYJCuvygzjDvbU8N_Bg",
     },
 	{
-      "id":18,
       "name_skin":"Zoro",
-      "skin_url":"https://lh3.googleusercontent.com/kN4EM8QmNFY1OBj8xA19zNXEtGnjRL0ttopojopRrcZeOF2FIFzc6ftb4mTL0whDTnqSg5TpkvBfko270fnYDBmjcg95uhZLQK0",
-      "view_skin":"https://lh3.googleusercontent.com/H4WLr9pztnVEdWP1mk2SnUcHzgdkp9n9mFdjX-rK-srqzwD50LrXKXRTiacmz5fwPJ5tyntCH8cCpNSLviy6ibNeTnkRZHajAgJi"
+      "install":"https://lh3.googleusercontent.com/kN4EM8QmNFY1OBj8xA19zNXEtGnjRL0ttopojopRrcZeOF2FIFzc6ftb4mTL0whDTnqSg5TpkvBfko270fnYDBmjcg95uhZLQK0",
     },
 	{
-      "id":19,
       "name_skin":"Zoro",
-      "skin_url":"https://lh3.googleusercontent.com/pEmkiSFumpOoYXZw0fSrj8aLBeN6T4d3I0gNm_zAqU2IyScAfdKbyWMOxMEuiLBUl3oJQpX87IsXxGE-jSBcdFy63XMWWQwSsPc",
-      "view_skin":"https://lh3.googleusercontent.com/xXzsIJiFNQ6MiTZ-Ai3K0x_McVGwyRKW_yrcM7bYFiW9O4XjwfVukcP36GohVo0yo2KJSaPXzBxx7a2R8sOCgmQ1iUqra9aNAAuj"
+      "install":"https://lh3.googleusercontent.com/pEmkiSFumpOoYXZw0fSrj8aLBeN6T4d3I0gNm_zAqU2IyScAfdKbyWMOxMEuiLBUl3oJQpX87IsXxGE-jSBcdFy63XMWWQwSsPc",
     },
 	{
-      "id":20,
       "name_skin":"Zoro",
-      "skin_url":"https://lh3.googleusercontent.com/3o-2YOMYVU24SC8WDGGrKyNbit7HihooB3UE-mLE64hOpqKnU8krNvusdW4rLE9HlD9XmDHDXVPXLrhbuEIVhApEySNiXK3W5tU",
-      "view_skin":"https://lh3.googleusercontent.com/nMZMXsh1Mm7ncbxQa9WCmJh2S4rS2L0l93ncN0Ondu7BBcmT7taY0qn4ds8U7dh7MMP8pygvjmRdGUGaV4LZdfevgflqLTgSpQ"
+      "install":"https://lh3.googleusercontent.com/3o-2YOMYVU24SC8WDGGrKyNbit7HihooB3UE-mLE64hOpqKnU8krNvusdW4rLE9HlD9XmDHDXVPXLrhbuEIVhApEySNiXK3W5tU",
     },
 	{
-      "id":21,
       "name_skin":"Zoro",
-      "skin_url":"https://lh3.googleusercontent.com/Y55jox_GVdMVmno6MIpT6Nj9O_y6c484x-hPT00TgVg4Jjk59q3qyaCgNvRtVnVcy87EphWLRGbRbtEu2HZEZF0L6-fara43sHGn",
-      "view_skin":"https://lh3.googleusercontent.com/2fAN_mOE_mvpBnCMAHRv5eiGGxooUF8SWGC5Ktrj11KJLrtJnYFo-p3nrlmgVfuKv13891ttGyIH_77_nxrd4G5-VTS27duDGLRH"
+      "install":"https://lh3.googleusercontent.com/Y55jox_GVdMVmno6MIpT6Nj9O_y6c484x-hPT00TgVg4Jjk59q3qyaCgNvRtVnVcy87EphWLRGbRbtEu2HZEZF0L6-fara43sHGn",
     },
 	{
-      "id":22,
       "name_skin":"Zoro Fabski",
-      "skin_url":"https://lh3.googleusercontent.com/JSoDedKucwhs-aXjBFKt2F9SXC_2wtzeDbOnRyizE2urPDSw_gM7fbqdEeTmA1lBNBHIz6yoMmd9xSO00B58hvbV85z7PuRCwSbe",
-      "view_skin":"https://lh3.googleusercontent.com/BaCRYE9U4tOK_SKyTeGp3doBQShmSY-G8SoZHCa6UbTDd_FHf43eyH3defySwN-UWeYBz8-2Z8A4iDGYt_if6bZfNpLEnrs3uL5O"
+      "install":"https://lh3.googleusercontent.com/JSoDedKucwhs-aXjBFKt2F9SXC_2wtzeDbOnRyizE2urPDSw_gM7fbqdEeTmA1lBNBHIz6yoMmd9xSO00B58hvbV85z7PuRCwSbe",
     },
 	{
-      "id":23,
       "name_skin":"Zoro",
-      "skin_url":"https://lh3.googleusercontent.com/9DiJdOkkBUp7OqqZsU3lHNqPT_k81gxaFrP9GV09LbTwjUNFADz6SMiQ1pht0po3WAx7zHzuV3z4SOIim19GJFva9iZvSf00MWI",
-      "view_skin":"https://lh3.googleusercontent.com/t3uoUe5Km1CXhZIY2ZO_SSPM8Jz_Rx-BO5E8VEKlywzAnWNxL3H_sBhM42Nfpfc_csSd76Vkuj5GDvCxyujvqEm_lOHiODN08lSm"
+      "install":"https://lh3.googleusercontent.com/9DiJdOkkBUp7OqqZsU3lHNqPT_k81gxaFrP9GV09LbTwjUNFADz6SMiQ1pht0po3WAx7zHzuV3z4SOIim19GJFva9iZvSf00MWI",
     },
 	{
-      "id":24,
       "name_skin":"Zoro",
-      "skin_url":"https://lh3.googleusercontent.com/ETEq4G00VtQB692w1y7Qtyn-6u970mATIKdVp63m5F2KXJGIIGPNbAnRLTCf2dupHnyC69XpL5oHgBim3OsYuV5agn-XeuC_MEg-",
-      "view_skin":"https://lh3.googleusercontent.com/3Fg1O7EcI4DStaMv64lIJSdmvbr5MH1kXQAl6ZpiDlTDLD2OCbBcRrMwfYl9TWYKuHdOCWjveuKPmuL1Z7dlSHskvUs7qD5HEA"
+      "install":"https://lh3.googleusercontent.com/ETEq4G00VtQB692w1y7Qtyn-6u970mATIKdVp63m5F2KXJGIIGPNbAnRLTCf2dupHnyC69XpL5oHgBim3OsYuV5agn-XeuC_MEg-",
     },
 	{
-      "id":25,
       "name_skin":"Zoro De Wano",
-      "skin_url":"https://lh3.googleusercontent.com/ZP8uI-90Y8BjT38AsIIpN-HVCNCveJg3sGIQ40XlPT9W2ybROY-nKZyRnrGbu76ctqJyRbZBvZMuy2vchrbS9Yzz4zh702_V0O0",
-      "view_skin":"https://lh3.googleusercontent.com/s16nPw36mF6BbVhaDTwl5MTkOw4KtgzceyPBSKhODK6jy2lVLC-yNUEn3uIKZkjTjFVrKrjg1D1U144IY7uSCCr3bSiKRFvub_f_"
+      "install":"https://lh3.googleusercontent.com/ZP8uI-90Y8BjT38AsIIpN-HVCNCveJg3sGIQ40XlPT9W2ybROY-nKZyRnrGbu76ctqJyRbZBvZMuy2vchrbS9Yzz4zh702_V0O0",
     },
 	{
-      "id":26,
       "name_skin":"Zoro Affaire",
-      "skin_url":"https://lh3.googleusercontent.com/41tE5zBEX5pOcvgizsgMBjODIS3dA3Wy56s6_msx80balvyzKMV5ipguhtcLr70QPCjuD4_at3VIzZowz_FmSPOOUY_uC_neoA",
-      "view_skin":"https://lh3.googleusercontent.com/Hbr_-8I8hVLD50oBMtPu_Ph01oE4ZfKIgaxbQf_PuENzv7d7ur_iG6W0n-Fs_AOJRhc9hWc7rZN_l1VAPh6QCKLAjzaLr5Rzyw"
+      "install":"https://lh3.googleusercontent.com/41tE5zBEX5pOcvgizsgMBjODIS3dA3Wy56s6_msx80balvyzKMV5ipguhtcLr70QPCjuD4_at3VIzZowz_FmSPOOUY_uC_neoA",
     },
 	{
-      "id":27,
       "name_skin":"Zoro Fino",
-      "skin_url":"https://lh3.googleusercontent.com/RyKunuJmrrFJta-iBxPrTNoAKgtr329FOfqtWunIywHhEXt-JkPNdCKxNCgJj58wipLkiULVy2o3ttJb52tV0PgPeFXcVxAXYw",
-      "view_skin":"https://lh3.googleusercontent.com/IR2F65caSfuHZwX6Ye8HQLHvxTFJOryDlTRDjAJnfA7c9euFHh3nZbknJC5z_0CYP0KV5NWJoGUOCODF_8HJmUEkckUlBnL4lxQ"
+      "install":"https://lh3.googleusercontent.com/RyKunuJmrrFJta-iBxPrTNoAKgtr329FOfqtWunIywHhEXt-JkPNdCKxNCgJj58wipLkiULVy2o3ttJb52tV0PgPeFXcVxAXYw",
     },
 	{
-      "id":28,
       "name_skin":"Zoro G Nono 1",
-      "skin_url":"https://lh3.googleusercontent.com/O59rd7aAlofI32mc1AuPdTF5ofZi6mbQMdFcS_dZknCWScXs6kwb9n0VkDd3ROHmbg-oKY-BlJJt-aajKit_muLTGilqsK_JRm8",
-      "view_skin":"https://lh3.googleusercontent.com/qU31U6a7IIbJ3WHdA64JZIAfEAHmx1rd0qTZGzqWWjpEtTbOt6s_pd8Rc8xf9IUywY3zxRrEM8nhS9oRrrLMUKuultpnjB2N-uA"
+      "install":"https://lh3.googleusercontent.com/O59rd7aAlofI32mc1AuPdTF5ofZi6mbQMdFcS_dZknCWScXs6kwb9n0VkDd3ROHmbg-oKY-BlJJt-aajKit_muLTGilqsK_JRm8",
     },
 	{
-      "id":29,
       "name_skin":"Zoro G Nono 2",
-      "skin_url":"https://lh3.googleusercontent.com/6jiQyjBaeE8l8zz3B_UVV0Tqsl0oesCfDVWYYB2EWxf52S3fSlH_CLrsT9UAqkgGhdmX-MXJGDeqcRJ0sQB_HS7NLtPnC3rPINU",
-      "view_skin":"https://lh3.googleusercontent.com/BUEIfsIWOM2sNY0h1O76Zvsqx-1VvjLFCP5YSIlVQAMpJ6tIQXG-fswnsuJHKs0jgqIzU5YcSGz08KEqe5jDgiqjCE4nw4e6GLg"
+      "install":"https://lh3.googleusercontent.com/6jiQyjBaeE8l8zz3B_UVV0Tqsl0oesCfDVWYYB2EWxf52S3fSlH_CLrsT9UAqkgGhdmX-MXJGDeqcRJ0sQB_HS7NLtPnC3rPINU",
     },
 	{
-      "id":30,
       "name_skin":"Zoro",
-      "skin_url":"https://lh3.googleusercontent.com/ZDkeTxvYtIK9WapQY8CgR__Br2cUHMC1tJx7Oenudgg_iFGHAoZuf3VEUvAELXu7dZ6PS2ooNvXZhJr7e6kve4M7bJlOblWNPvA",
-      "view_skin":"https://lh3.googleusercontent.com/seDCkicaKKZjEt34BrcaRU1WkptjUrGx4obe77VKDWzXlaqUc_-GYrpwdNrNyoTpoQU95k18RW7MFeMciD3yAgWt9QRu3LgC1q8"
+      "install":"https://lh3.googleusercontent.com/ZDkeTxvYtIK9WapQY8CgR__Br2cUHMC1tJx7Oenudgg_iFGHAoZuf3VEUvAELXu7dZ6PS2ooNvXZhJr7e6kve4M7bJlOblWNPvA",
     },
 	{
-      "id":31,
       "name_skin":"Zoro",
-      "skin_url":"https://lh3.googleusercontent.com/Hwe-jhlsIzVTS99_jCXzBXxzFvOSYRvx9Gn_IUyqOSF0HVdYacSM4dqB7gjNiKoQic_kT99czvLB-deu-gWDpxpdAnXhOJMxRng",
-      "view_skin":"https://lh3.googleusercontent.com/a-eiPL7anHb84Ldfr0SBvf9KutXqPhIsl_NfHJPuwFzR68FYBwpVsBuir6uPkoUE3Af04RphyfS-QDaARr_h6t2I2ZySpWGDbF54"
+      "install":"https://lh3.googleusercontent.com/Hwe-jhlsIzVTS99_jCXzBXxzFvOSYRvx9Gn_IUyqOSF0HVdYacSM4dqB7gjNiKoQic_kT99czvLB-deu-gWDpxpdAnXhOJMxRng",
     },
 	{
-      "id":32,
       "name_skin":"Zoro Arminho",
-      "skin_url":"https://lh3.googleusercontent.com/65GhrvomyaydpEauLhXINihjZMyS5crUpkCMy5Gp-BP7NWklyo5lXsSUtEQ24oo0CAticXiX3fpDPaZ2IruvLAd68OLwUG166Vpz",
-      "view_skin":"https://lh3.googleusercontent.com/ZZA_iRuUMCp1Xs8pk3mgdkdAybd9upZHmN0XKMBHs5HHA7FSEXoLJwlyHNkE-9GR_sNwMIYSKYRcZTCMM88JNe76RiLpRKXRcWE"
+      "install":"https://lh3.googleusercontent.com/65GhrvomyaydpEauLhXINihjZMyS5crUpkCMy5Gp-BP7NWklyo5lXsSUtEQ24oo0CAticXiX3fpDPaZ2IruvLAd68OLwUG166Vpz",
     },
 	{
-      "id":33,
       "name_skin":"Zoro Steve",
-      "skin_url":"https://lh3.googleusercontent.com/9sWntciJf7D8yeP-7W6V1AAgpOYF-KdEyDluR1E_idqd_DYDW2-H9qKPjHpg3ySiWrY8LNT2SZQTahqwv17rVEg8QhmK9teVfA",
-      "view_skin":"https://lh3.googleusercontent.com/EFix8CbuklC7LMwY0t_OOEZSTBJ8gm9YSTb1JD_cwdsAlkIwJ8F_Dd6Sa4uf-8JhvfHQVRaKg1pcA8vs6Eba-1S1jhc82WvRJGM"
+      "install":"https://lh3.googleusercontent.com/9sWntciJf7D8yeP-7W6V1AAgpOYF-KdEyDluR1E_idqd_DYDW2-H9qKPjHpg3ySiWrY8LNT2SZQTahqwv17rVEg8QhmK9teVfA",
     },
 	{
-      "id":34,
       "name_skin":"Zoro Age",
-      "skin_url":"https://lh3.googleusercontent.com/Tp0ZR_470bdMD4h7c2NRIZBE-t5A7Qt6vwoknmRwARAzx1JJ3grbGkFXqpJtY40qKz4avgbI3dAWpKq58KxiBezvzZpirTyYKzI",
-      "view_skin":"https://lh3.googleusercontent.com/pIuTWqnqt6m9jC1ceqVmCbobWpoiRaAVrvEIlBGlDadCZUHZkhM1svPug6mYj3dLpUss0uz6DRsCAk8Mnc2OYViHHM65I9PCWqo"
+      "install":"https://lh3.googleusercontent.com/Tp0ZR_470bdMD4h7c2NRIZBE-t5A7Qt6vwoknmRwARAzx1JJ3grbGkFXqpJtY40qKz4avgbI3dAWpKq58KxiBezvzZpirTyYKzI",
     },
 	{
-      "id":35,
       "name_skin":"Zoro",
-      "skin_url":"https://lh3.googleusercontent.com/cIhiQF9QlTFd9c8bXR1stS-dUS0tO92_8f8ulIAArhH9Hf5Ha-PUbKWIa33a5fhzQhxvS4Fpc04fDH8TDYCC8WdG3ehdbCa-Dg",
-      "view_skin":"https://lh3.googleusercontent.com/GBCgabizutueZym_QZqHAp73yfzJCoucvjai41JlQa63xoUcZ_UyuWsO5-15auRimUFNVodarlIB2F4oUbMIIBml_qjCC3DoJv0"
+      "install":"https://lh3.googleusercontent.com/cIhiQF9QlTFd9c8bXR1stS-dUS0tO92_8f8ulIAArhH9Hf5Ha-PUbKWIa33a5fhzQhxvS4Fpc04fDH8TDYCC8WdG3ehdbCa-Dg",
     },
 	{
-      "id":36,
       "name_skin":"Zoro Akatsuki",
-      "skin_url":"https://lh3.googleusercontent.com/2uO3WudMM0Z7aZ9Kqg1Cn1nIi1Lgvcg_53rs7s9C1KmcjwyaMwbIDDovRbHuLBWbUlqtxYAKek0xgfUiet0-wVRgxKgc69C2pho",
-      "view_skin":"https://lh3.googleusercontent.com/ZGMwzTZl84cyXlI8mH7nB9LU3nIdjHaIc-AsPUcIZGPdDSYtJbRHAYiblmlAjq-di-J0_CfVlPk5fY4JtuQAYwqLvZfmPHErl1Ks"
+      "install":"https://lh3.googleusercontent.com/2uO3WudMM0Z7aZ9Kqg1Cn1nIi1Lgvcg_53rs7s9C1KmcjwyaMwbIDDovRbHuLBWbUlqtxYAKek0xgfUiet0-wVRgxKgc69C2pho",
     },
 	{
-      "id":37,
       "name_skin":"Zoro Uva",
-      "skin_url":"https://lh3.googleusercontent.com/FQZXDUvW7HF-_uH3NesqqA50sB9KryzA7y3iL5ekJhsBtRlWrljtLe2_5i_56AyNGMHXC9NpYoHV7OiuBljre6PWT3JcDJRA-2P-",
-      "view_skin":"https://lh3.googleusercontent.com/JcYv_0UlLnqH2BBzoKnVAWNae7CB6RutfpYyhqV6V2bJ8C9-oPen5s4BVpm46IJjg0wLr8lwrQDHmeL02VUmkBElviC48J5iXA"
+      "install":"https://lh3.googleusercontent.com/FQZXDUvW7HF-_uH3NesqqA50sB9KryzA7y3iL5ekJhsBtRlWrljtLe2_5i_56AyNGMHXC9NpYoHV7OiuBljre6PWT3JcDJRA-2P-",
     },
 	{
-      "id":38,
       "name_skin":"Zoro Zazo",
-      "skin_url":"https://lh3.googleusercontent.com/PZ7ECPoZf-uD0oZ3a8-PfzLD_8RZFzAt8Qf88Ax72j5pFzvwnjUMFvbaZoI1Xt3lflWiK_3ehdBqZQtW1q1YBtu9yg56l7Ey474",
-      "view_skin":"https://lh3.googleusercontent.com/e8S1yG0P1u5BIcMfu_0U5m3HZGpQTBlST7kF6z94tAaUwQNrAqBq2sMaONfzaKLyTajhfivpk4IehfzuteVxEqDbj7X-noE2ug"
+      "install":"https://lh3.googleusercontent.com/PZ7ECPoZf-uD0oZ3a8-PfzLD_8RZFzAt8Qf88Ax72j5pFzvwnjUMFvbaZoI1Xt3lflWiK_3ehdBqZQtW1q1YBtu9yg56l7Ey474",
     },
 	{
-      "id":39,
       "name_skin":"Zoro Demon",
-      "skin_url":"https://lh3.googleusercontent.com/Mg92UmYiIULwo73RksrqEBwDiPL2iFCh7nzzLbJK9UINKy2IIjABABFSSs_qR-pCqhnLesyp4V2PoHmVPgeguCRAmKJwWreUD_o",
-      "view_skin":"https://lh3.googleusercontent.com/Ixl2mi39vTorQaVpk8MKlUvseMGlRnYbZGVxgEYZbgn57u5EwGVXPc-Ca9yXFCxrqJ9tuSNuCpIJNFZ3uKg_CvbzPLxaqXm2UA"
+      "install":"https://lh3.googleusercontent.com/Mg92UmYiIULwo73RksrqEBwDiPL2iFCh7nzzLbJK9UINKy2IIjABABFSSs_qR-pCqhnLesyp4V2PoHmVPgeguCRAmKJwWreUD_o",
     },
 	{
-      "id":40,
       "name_skin":"Zoro",
-      "skin_url":"https://lh3.googleusercontent.com/COF8jHwpPgvYMnBbePmIy5rDffTY0_NuBtt4Q_SIIkGqL7Fk1wz5HTf-7UxMxkoN0Cr0LUjjpVAfX_LCSlIRemMygY-BjrZLaUVL",
-      "view_skin":"https://lh3.googleusercontent.com/RDdS-EcWwLOf_12EfHlQKFArBhtrfuHqeJpqagYLSdqMLPHzQHGi5_TGfhf1XvkWCovc8-T_X2-GoxCaEYAAhTEwUA6-niKjOoA"
+      "install":"https://lh3.googleusercontent.com/COF8jHwpPgvYMnBbePmIy5rDffTY0_NuBtt4Q_SIIkGqL7Fk1wz5HTf-7UxMxkoN0Cr0LUjjpVAfX_LCSlIRemMygY-BjrZLaUVL",
     },
 	{
-      "id":41,
       "name_skin":"Zoro",
-      "skin_url":"https://lh3.googleusercontent.com/mrwOB9T0wovGzJLvgIkSWmfagrqxqhRSP-zUELntytZO-dDZ2kc7FwANYtu4kOCXK3wl0-0GXbRzV7aWGvoY8Zso06GqGZJAQV2S",
-      "view_skin":"https://lh3.googleusercontent.com/flD7wdiwg3hz9OWM5-P8TvlhYOWeqVWsCRVcsPku3lL2e3IuHFN_SDSEFQu8uSuGuabFFGNY-VAyiPTeVscX5cJ-1urR_YHoDAU"
+      "install":"https://lh3.googleusercontent.com/mrwOB9T0wovGzJLvgIkSWmfagrqxqhRSP-zUELntytZO-dDZ2kc7FwANYtu4kOCXK3wl0-0GXbRzV7aWGvoY8Zso06GqGZJAQV2S",
     },
 	{
-      "id":42,
       "name_skin":"Zoro",
-      "skin_url":"https://lh3.googleusercontent.com/CtZWEblpGm9mKKfk5Mz5gkU0U9YaQo4ONn69znmTaMKOBMqTGonKBRGKChWsaRXuizIBJfUOoRC3pzz0aG5BnZdunjb5z0hEvg",
-      "view_skin":"https://lh3.googleusercontent.com/YfkH8Id4XgY-XTCCfy3TD-xTOgHy4qClFqTkO1-UDy7uts2k-HiK5CPqmzV_QC92Gk9x00dqUt8F8GFNn1G1m4a49-sa3d9VbtE"
+      "install":"https://lh3.googleusercontent.com/CtZWEblpGm9mKKfk5Mz5gkU0U9YaQo4ONn69znmTaMKOBMqTGonKBRGKChWsaRXuizIBJfUOoRC3pzz0aG5BnZdunjb5z0hEvg",
     },
 	{
-      "id":43,
       "name_skin":"Zoro",
-      "skin_url":"https://lh3.googleusercontent.com/-5cOsWl35HqcYZCSd4q8IwchsNzWonY-wM6JI36bs6SlBvXGYhSBTxXZGmijXE1IRzCmZRh81lNAG7anSgSNyGmDXexqhVapo5w",
-      "view_skin":"https://lh3.googleusercontent.com/4OqhSXWkKuTs7XBU1K6tb3AWSiYAtVaM5uaIj9V-jF_V8BdbzcHGjkENjiDZlYssDFkzsX-kCvFP6f9eNfaXMhRkJLbskK8Q4ms"
+      "install":"https://lh3.googleusercontent.com/-5cOsWl35HqcYZCSd4q8IwchsNzWonY-wM6JI36bs6SlBvXGYhSBTxXZGmijXE1IRzCmZRh81lNAG7anSgSNyGmDXexqhVapo5w",
     },
 	{
-      "id":44,
       "name_skin":"Zoro Fluminense",
-      "skin_url":"https://lh3.googleusercontent.com/NxDXiAmrztTbt-Ihhip95y0d_FsOGtYmW5_EVMN5eYnTr6SBW17x5_vNNTvLHKgsC6HYoQH8E7UbeHPtApsdK0Kw0dHET2DiIKA",
-      "view_skin":"https://lh3.googleusercontent.com/b-_zjkDbulRTVJHXd5UmgaB0ltQrc_fCmC1kl385ysYocpH7QLS1WLMDV8e2_CdXvdiyEzP_-hVRtXixrJ7I5OOaHClB-rcEabX5"
+      "install":"https://lh3.googleusercontent.com/NxDXiAmrztTbt-Ihhip95y0d_FsOGtYmW5_EVMN5eYnTr6SBW17x5_vNNTvLHKgsC6HYoQH8E7UbeHPtApsdK0Kw0dHET2DiIKA",
     },
 	{
-      "id":45,
       "name_skin":"Zoro Navideno",
-      "skin_url":"https://lh3.googleusercontent.com/ESbZjR6JyD4Tw7mLz7tUSNywnuKDfeDwrjhgO9QjDkVO_t-qXr1p7IOezwUEC2buK_Yk_i5j9qrysc9gBQMjwxepgyT4BBFsvg",
-      "view_skin":"https://lh3.googleusercontent.com/64ynSLsiBp_XgATvj6f66exBAcBfJYhOTnwRk9Ty4muW1HBIQ8XHyEAtInAw5N1yulV95wSMZsNxNmGKU7wZIs1Z7YWVnwE_n3vf"
+      "install":"https://lh3.googleusercontent.com/ESbZjR6JyD4Tw7mLz7tUSNywnuKDfeDwrjhgO9QjDkVO_t-qXr1p7IOezwUEC2buK_Yk_i5j9qrysc9gBQMjwxepgyT4BBFsvg",
     },
 	{
-      "id":46,
       "name_skin":"Zoro Ikki",
-      "skin_url":"https://lh3.googleusercontent.com/44Cg5mxy2qp01ohx2etBn_2YGhMCpgof-anoCVRpPlHMC_gajHHBlIbgWr3e_68v9OXB2bshGQ5x2-rA9aOHHYsCQfyw2x3c2g",
-      "view_skin":"https://lh3.googleusercontent.com/lE1t-3aUyLtbW01VxVJaxcigr6apVjOiOiL3M6wJVf2el9FbYKTM9e-nc01ATV1T1RgEI2WZcplemlAbye0U9k_SAFENslJ5Gg2g"
+      "install":"https://lh3.googleusercontent.com/44Cg5mxy2qp01ohx2etBn_2YGhMCpgof-anoCVRpPlHMC_gajHHBlIbgWr3e_68v9OXB2bshGQ5x2-rA9aOHHYsCQfyw2x3c2g",
     },
 	{
-      "id":47,
       "name_skin":"Zoro",
-      "skin_url":"https://lh3.googleusercontent.com/cj1-zD8fp9DutPjuWbwfyfJg6QwwkH3hgSpM4QGN6UUJWKsAAi4fKjU4HkoEUx1O62M_2xoXL_5zv5BVXHAgB9UftfaxJ_P9wSZ8",
-      "view_skin":"https://lh3.googleusercontent.com/VRtrAPVY8X62-T8hJQrdzK006kvnDG6jA1HJD6FI2X5hbcSkQuVaUUQ8VnkaO-ua-cIdiQdjlXiZobHITUaWQVLPq2qQrLEV4A"
+      "install":"https://lh3.googleusercontent.com/cj1-zD8fp9DutPjuWbwfyfJg6QwwkH3hgSpM4QGN6UUJWKsAAi4fKjU4HkoEUx1O62M_2xoXL_5zv5BVXHAgB9UftfaxJ_P9wSZ8",
     },
 	{
-      "id":48,
       "name_skin":"Zoro",
-      "skin_url":"https://lh3.googleusercontent.com/vAWMKJGngUVnPXzQe8EY25Rj6kitv2NHswnNpQS59qNUHnxk-wW6v10cEobwhhXLLg9R3P9AyBli1RELZ014TxYQ0I0tn9f-CYDE",
-      "view_skin":"https://lh3.googleusercontent.com/yk7H6jCv2dkNSgBLfjFw0GiJ4TekGA-ePHN3_eO2uuqFTYcK4SqGzyiDPAfyUZ_rQ7diQSp45D_EiNM_zrMzm5cvN0MVNgeNqwU"
+      "install":"https://lh3.googleusercontent.com/vAWMKJGngUVnPXzQe8EY25Rj6kitv2NHswnNpQS59qNUHnxk-wW6v10cEobwhhXLLg9R3P9AyBli1RELZ014TxYQ0I0tn9f-CYDE",
     },
 	{
-      "id":49,
       "name_skin":"Zoro",
-      "skin_url":"https://lh3.googleusercontent.com/yyQC-9njwc6KFfqZFDwKTZWeJ3aABUbWRxxdnkYVJc9dauP3zSVqLTUTZvUjw7f9aCi81vKZ66KCqiopW7ZIoyg3GFZM4b6AqVcU",
-      "view_skin":"https://lh3.googleusercontent.com/q8l7UMBWf0XY5lR8QFfmRY5vDNvenwELPmw5RdAojiIaE5h-tubfUQjVMF5tS0ULORLbJDAOYbRzn1x40gBOhR9vL6bYO_GAIhQ"
+      "install":"https://lh3.googleusercontent.com/yyQC-9njwc6KFfqZFDwKTZWeJ3aABUbWRxxdnkYVJc9dauP3zSVqLTUTZvUjw7f9aCi81vKZ66KCqiopW7ZIoyg3GFZM4b6AqVcU",
     },
 	{
-      "id":50,
       "name_skin":"Zoro",
-      "skin_url":"https://lh3.googleusercontent.com/JpQnczW0w6ir0D1kAezZisJ0jJY5ner8Cq4wS3cSvziP3vyv9Y70fYWt9RHZthaTdQs3Oq1BoBTKnU7PJzLD0dKS_AL6SohfGRg6",
-      "view_skin":"https://lh3.googleusercontent.com/8blA2VlqVSvHYRNqC2U_WAOcd1SCDxAEXmXHqORv3pTiHggiaWaulpAjeGXNk9SiqfY5PqvlPIJX_-PmVsOElZEhLrf_S5xEPJmL"
+      "install":"https://lh3.googleusercontent.com/JpQnczW0w6ir0D1kAezZisJ0jJY5ner8Cq4wS3cSvziP3vyv9Y70fYWt9RHZthaTdQs3Oq1BoBTKnU7PJzLD0dKS_AL6SohfGRg6",
     },
-	{
-      "id":51,
+	{,
       "name_skin":"Zoro",
-      "skin_url":"https://lh3.googleusercontent.com/C9Ms5YTgT8bxfY2Grd6429BT3jPEf48rMDiiHiivjO4ZQyIUhbZByJGOjSFk77mm2M0kfvm1ccJBvxJyLGPqqYpx1T3gb2L37zH5",
-      "view_skin":"https://lh3.googleusercontent.com/JhL_CrvN0Qzxk_dSNvyFr7zKmjkQYtg-3YW6P_heNEv0Oex4ac6c2wAria4VDbqEzBP-Bbaynn6w8s2pvs1orS5_FX2B3ikabuhx"
+      "install":"https://lh3.googleusercontent.com/C9Ms5YTgT8bxfY2Grd6429BT3jPEf48rMDiiHiivjO4ZQyIUhbZByJGOjSFk77mm2M0kfvm1ccJBvxJyLGPqqYpx1T3gb2L37zH5",
     }
-  ],
-  "Addons":
-  [
- 
-  ],
-  "Maps":
-  [
-	
   ]
 }
