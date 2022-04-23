@@ -1,27 +1,11 @@
 {
   "Maps": [
     {
-      "name": "",
-      "category": "",
-      "image": "",
-      "download": "",
-      "description": ""
-    },
-
-    {
-      "name": "",
-      "category": "",
-      "image": "",
-      "download": "",
-      "description": ""
-    },
-    
-    {
-      "name": "Bikini Bottom City [Creation]",
-      "category": "Creation",
-      "image": "http://mcpedl.com/wp-content/uploads/2016/02/bikini-bottom-city.jpg",
-      "download": "https://aliendro.id/projek/mapsbikini/bikini_bottom1.zip",
-      "description": ""
+      "name": "Sonic",
+      "category": "Sonic Maps MCPE",
+      "image": "https://modandskinmcpe.github.io/prospecialmcpe/maps.jpg",
+      "download": "https://archive.org/download/addsonic/map.zip",
+      "description": "https://modandskinmcpe.github.io/prospecialmcpe/deskripsimap.html"
     }
   ]
 }
