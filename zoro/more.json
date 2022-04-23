@@ -10,7 +10,7 @@
       "backup_ads_intertitial":"",
       "backup_ads_reward":"",
       "interval_intertitial": 10,
-      "initialize_sdk":"107355779",
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -24,9 +24,8 @@
   "More":
   [
     {
-      "id":1,
       "title":"More App",
-      "image":"",
+      "image":"https://modandskinmcpe.github.io/prospecialmcpe/moreaps.png",
       "link":""
     }
   ]
