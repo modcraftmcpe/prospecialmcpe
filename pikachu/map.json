@@ -1,26 +1,10 @@
 {
   "Maps": [
     {
-      "name": "",
-      "category": "",
+      "name": "Pikachu",
+      "category": "Pikachu Maps MCPE",
       "image": "",
-      "download": "",
-      "description": ""
-    },
-
-    {
-      "name": "",
-      "category": "",
-      "image": "",
-      "download": "",
-      "description": ""
-    },
-    
-    {
-      "name": "Bikini Bottom City [Creation]",
-      "category": "Creation",
-      "image": "http://mcpedl.com/wp-content/uploads/2016/02/bikini-bottom-city.jpg",
-      "download": "https://aliendro.id/projek/mapsbikini/bikini_bottom1.zip",
+      "download": "https://wedosmp3.github.io/imagecreative/pixelmon/maps.zip",
       "description": ""
     }
   ]
