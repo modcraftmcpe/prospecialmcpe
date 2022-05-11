@@ -1,15 +1,15 @@
 {
   "Maps": [
     {
-      "name": "Map 1",
-      "category": "Mobs Maps MCPE",
+      "name": "Mobs Maps MCPE",
+      "category": "Maps 1",
       "image": "https://modandskinmcpe.github.io/prospecialmcpe/maps.jpg",
       "download": "https://wedosmp3.github.io/imagecreative/mobs/map1.zip",
       "description": "https://modandskinmcpe.github.io/prospecialmcpe/deskripsimap.html"
     },
     {
-      "name": "Map 2",
-      "category": "Mobs Maps MCPE",
+      "name": "Mobs Maps MCPE",
+      "category": "Maps 2",
       "image": "https://modandskinmcpe.github.io/prospecialmcpe/maps.jpg",
       "download": "https://wedosmp3.github.io/imagecreative/mobs/map2.zip",
       "description": "https://modandskinmcpe.github.io/prospecialmcpe/deskripsimap.html"
