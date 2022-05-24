@@ -2,16 +2,16 @@
   "Maps": [
     {
       "name": " Maps Minecraft PE",
-      "category": "Maps ",
+      "category": "Maps 1",
       "image": "https://modandskinmcpe.github.io/prospecialmcpe/maps.jpg",
-      "download": "",
+      "download": "https://archive.org/download/mapbrawlstars_202205/map1.zip",
       "description": "https://modandskinmcpe.github.io/prospecialmcpe/deskripsimap.html"
     },
     {
       "name": " Maps Minecraft PE",
-      "category": "Maps ",
+      "category": "Maps 2",
       "image": "https://modandskinmcpe.github.io/prospecialmcpe/maps.jpg",
-      "download": "",
+      "download": "https://archive.org/download/mapbrawlstars_202205/map2.zip",
       "description": "https://modandskinmcpe.github.io/prospecialmcpe/deskripsimap.html"
     }
   ]
