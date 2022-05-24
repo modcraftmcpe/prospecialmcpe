@@ -2,16 +2,9 @@
   "Maps": [
     {
       "name": " Maps Minecraft PE",
-      "category": "Maps ",
+      "category": "Maps 1",
       "image": "https://modandskinmcpe.github.io/prospecialmcpe/maps.jpg",
-      "download": "",
-      "description": "https://modandskinmcpe.github.io/prospecialmcpe/deskripsimap.html"
-    },
-    {
-      "name": " Maps Minecraft PE",
-      "category": "Maps ",
-      "image": "https://modandskinmcpe.github.io/prospecialmcpe/maps.jpg",
-      "download": "",
+      "download": "https://archive.org/download/mappjmasks/map1.zip",
       "description": "https://modandskinmcpe.github.io/prospecialmcpe/deskripsimap.html"
     }
   ]
